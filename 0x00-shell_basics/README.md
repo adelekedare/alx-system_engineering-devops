@@ -20,4 +20,6 @@ rm -r:deletes directories
 
 cd -:changes to the previous working directory
 
-ls -la:list all files 
+ls -la:list all files
+
+file:it gives info about a file 
