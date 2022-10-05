@@ -12,4 +12,6 @@ ls -na:Display user and group id numerically
 
 mkdir :It creates  a directory 
 
-mv:moving of file 
+mv:moving of file
+
+rm;Deletes file 
