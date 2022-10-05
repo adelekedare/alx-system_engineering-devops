@@ -8,4 +8,6 @@ ls -l: Display current directory contents in a long format
 
 ls -la: Display current working directory,including hidden files
 
-ls -na:Display user and group id numerically  
+ls -na:Display user and group id numerically
+
+mkdir -p:It creates sub-directories of a directory  
