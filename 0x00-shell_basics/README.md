@@ -18,4 +18,6 @@ rm;Deletes file
 
 rm -r:deletes directories
 
-cd -:changes to the previous working directory 
+cd -:changes to the previous working directory
+
+ls -a:list all files 
