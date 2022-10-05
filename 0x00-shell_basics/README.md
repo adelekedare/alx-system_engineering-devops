@@ -14,4 +14,6 @@ mkdir :It creates  a directory
 
 mv:moving of file
 
-rm;Deletes file 
+rm;Deletes file
+
+rm -r:deletes directories 
