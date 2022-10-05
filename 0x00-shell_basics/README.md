@@ -16,4 +16,6 @@ mv:moving of file
 
 rm;Deletes file
 
-rm -r:deletes directories 
+rm -r:deletes directories
+
+cd -:changes to the previous working directory 
