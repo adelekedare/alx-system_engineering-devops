@@ -10,4 +10,6 @@ ls -la: Display current working directory,including hidden files
 
 ls -na:Display user and group id numerically
 
-mkdir -p:It creates sub-directories of a directory  
+mkdir :It creates  a directory 
+
+mv:moving of file 
