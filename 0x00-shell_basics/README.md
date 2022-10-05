@@ -23,3 +23,5 @@ cd -:changes to the previous working directory
 ls -la:list all files
 
 file:it gives info about a file 
+
+ln:it creates a symbolic link
