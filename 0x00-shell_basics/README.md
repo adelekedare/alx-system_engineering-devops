@@ -35,3 +35,5 @@ rm*~:remove all files with the character
 mkdir -p:
 
 ls -amp | sort -d:list and sorting
+
+0 string :
