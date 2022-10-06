@@ -33,3 +33,5 @@ v [[:upper:]]* it moves all files beginning with an uppercase
 rm*~:remove all files with the character
 
 mkdir -p:
+
+ls -amp | sort -d:list and sorting
