@@ -12,4 +12,5 @@ o- A script that changes current user to "betty"
 11 A script that adds execute permission to all subdirectories for all.
 12 A script that creates directory with set permission.
 13 A script that changes the group owner
-14 A script that changes owner and group owner simultaneously for all files and dir.  
+14 A script that changes owner and group owner simultaneously for all files and dir.
+15 A script that changes owner and group owner for a symbolic link  
