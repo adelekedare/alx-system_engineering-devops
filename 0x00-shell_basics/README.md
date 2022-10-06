@@ -24,4 +24,6 @@ ls -la:list all files
 
 file:it gives info about a file 
 
-lnv-s:it creates a symbolic link
+ln-s:it creates a symbolic link
+
+cp -u *:copy missing and upgraded files to the destination directory
