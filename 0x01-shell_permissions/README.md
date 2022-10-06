@@ -7,4 +7,4 @@
 6- A script that adds execute permission to owner and group owner,then read perm   ission to other users
 7- A script that grants execute permission to owner,group owner and other users
 8- A script that grants permission to other users only.
- 
+9- A script that sets some specific modification. 
