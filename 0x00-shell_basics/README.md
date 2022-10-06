@@ -27,3 +27,6 @@ file:it gives info about a file
 ln-s:it creates a symbolic link
 
 cp -u *:copy missing and upgraded files to the destination directory
+
+v [[:upper:]]* it moves all files beginning with an uppercase 
+~
