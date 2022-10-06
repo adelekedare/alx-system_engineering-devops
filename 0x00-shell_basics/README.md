@@ -24,4 +24,4 @@ ls -la:list all files
 
 file:it gives info about a file 
 
-ln:it creates a symbolic link
+lnv-s:it creates a symbolic link
