@@ -31,3 +31,5 @@ cp -u *:copy missing and upgraded files to the destination directory
 v [[:upper:]]* it moves all files beginning with an uppercase
 
 rm*~:remove all files with the character
+
+mkdir -p:
