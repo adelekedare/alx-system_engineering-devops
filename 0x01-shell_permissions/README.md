@@ -1,4 +1,4 @@
-0- A script that changes current user to "betty"
+o- A script that changes current user to "betty"
 1- A script that prints the effective name of current user 'whoami'.
 2- A script that prints all the groups the current user is part of.
 3- A script that changes the owner of file.
@@ -9,4 +9,4 @@
 8- A script that grants permission to other users only.
 9- A script that sets some specific modification.
 10 A script that sets mode of 2 different files
-  
+11 A script that adds execute permission to all subdirectories for all.  
