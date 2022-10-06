@@ -11,4 +11,4 @@ o- A script that changes current user to "betty"
 10 A script that sets mode of 2 different files
 11 A script that adds execute permission to all subdirectories for all.
 12 A script that creates directory with set permission.
-  
+13 A script that changes the group owner  
