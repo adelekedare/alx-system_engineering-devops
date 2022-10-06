@@ -9,4 +9,6 @@ o- A script that changes current user to "betty"
 8- A script that grants permission to other users only.
 9- A script that sets some specific modification.
 10 A script that sets mode of 2 different files
-11 A script that adds execute permission to all subdirectories for all.  
+11 A script that adds execute permission to all subdirectories for all.
+12 A script that creates directory with set permission.
+  
