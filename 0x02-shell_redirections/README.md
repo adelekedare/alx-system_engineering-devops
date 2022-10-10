@@ -7,3 +7,4 @@ A script that prints the exact line.
 A script that redirects output to another.
 A script that duplicates the last line of a file.
 A script that finds regular files onlythen delete them.
+A script that counts the number of directories and sub in current dir.
