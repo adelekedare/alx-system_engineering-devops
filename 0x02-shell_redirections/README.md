@@ -4,4 +4,5 @@ A script that displays content of two files.
 A script that that prints the last 10 lines
 A script that prints the third line of a file.
 A script that prints the exact line.
-A script that redirects output to another file.
+A script that redirects output to another.
+A script that duplicates the last line of a file.
