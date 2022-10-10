@@ -16,3 +16,4 @@ A script that prints patterns and some lines after it.
 A script that do not print selected pattern.
 A script that prints all lines starting with letters
 A script that replaces characters.
+A script tgat removes some specified letters.
