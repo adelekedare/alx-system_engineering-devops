@@ -12,4 +12,4 @@ A script that displays 10 newest files in the current directory.
 A script that  sorts and  print out unique word.
 A script that displays lines of same patterns.
 A script that prints lines of same patterns.
-
+A script that prints patterns and some lines after it.
