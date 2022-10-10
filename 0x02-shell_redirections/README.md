@@ -14,3 +14,4 @@ A script that displays lines of same patterns.
 A script that prints lines of same patterns.
 A script that prints patterns and some lines after it.
 A script that do not print selected pattern.
+A script that prints all lines starting with letters
