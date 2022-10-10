@@ -19,3 +19,4 @@ A script that replaces characters.
 A script that removes some specified letters.
 A script that reverse its input.
 A script that displays all users and their home directories sorted.
+Prints the name of files and dir in the current dir and sub-dir.
